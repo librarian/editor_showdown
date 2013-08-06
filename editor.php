@@ -35,7 +35,7 @@ if (isset($options['autosave']) ) {
 
 </script>
 
-<form method="post" <?= $editor_config['action'] ?> enctype="multipart/form-data">
+<form method="post" <?= $editor_config['action'] ?> enctype="multipart/form-data" id="form_editor">
 <?= $editor_config['do'] ?>
 <div id="tabs-widget" class="tabs-widget-all">
     <ul class="tabs-menu" id="tabs-menu">
