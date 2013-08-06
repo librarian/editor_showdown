@@ -3,7 +3,7 @@
 $info = array(
 	'name' => t('Редактор Editor Showdown'),
 	'description' => t('Невизуально-визуальный редактор Markdown и BBCode с функцией предпросмотра'),
-	'version' => '0.4',
+	'version' => '0.5',
 	'author' => 'Nikita A Menkovich',
 	'plugin_url' => 'http://libc6.org/',
 	'author_url' => 'http://pushingkarma.com/projects/jquery-wysiwym/',
